@@ -18,9 +18,9 @@ We can't promise to reply to each and every issue, but we will read through ever
 Here's an overview of the current Windows Toggl Track App features and their statuses. 
 (_We will update this table as we improve the app during the BETA._)
 
-✅ Implemented
-❌ Not implemented
-⌛ Partially implemented
+* ✅ Implemented
+* ❌ Not implemented (but will come soon)
+* ⌛ Partially implemented (and will be fully implemented soon)
 
 | Category | Feature | Status | Comment/Improvement |
 | - | - | :-: | - |
