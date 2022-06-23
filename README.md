@@ -4,6 +4,8 @@
 
 We've finally released the BETA for our fully native Windows app. 🎉 
 
+:floppy_disk: Download the new app here: [Toggl Beta Windows Client x64](https://toggl.com/track/toggl-desktop/downloads/windows/beta/TogglTrack-windows64.exe).
+
 ### 🧰 How can you help?
 
 This repository will serve as an additional hub for the user feedback during the BETA testing, and beyond!
