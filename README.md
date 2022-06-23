@@ -27,7 +27,7 @@ Here's an overview of the current Windows Toggl Track App features and their sta
 | **Authentication/Authorization** | Email/Password login/signup | ✅ | |
 | | Google login/signup | ✅ | |
 | | Password reset | ✅ | |
-| | SSO (Single sign-on) | ❌ | |
+| | SSO (Single sign-on) | ⌛ | |
 | **Time Tracking** | Timer View (Time Entry editing) | ✅ | All Time Entry elements are now editable inline |
 | | A new Time Entry editing dialog | ✅ | |
 | | Filtering in all dropdowns | ✅ | |
@@ -36,8 +36,8 @@ Here's an overview of the current Windows Toggl Track App features and their sta
 | | `Timer` and `Manual` Time Entry input | ✅ | |
 | | Mini Timer | ✅ | Partially implemented. With improved search engine and ability to change all TE elements |
 | | UI/Performance Changes | ✅ | Better performance. Minor UI changes. |
-| | Pomodoro feature | ❌ | An improved version is planned, with focus UI. |
-| | Autotracking feature | ❌ | An improved version is planned. |
+| | Pomodoro feature | ⌛ | |
+| | Autotracking feature | ⌛ | An improved version is planned with more things to automate. |
 | **Calendar/Timeline** | Daily timeline view | ✅ | Visually adjusted. |
 | | Activity timeline | ✅ | Visually adjusted. |
 | | Create Time Entry by click & dragging | ✅ | |
