@@ -41,12 +41,11 @@ Here's an overview of the current Windows Toggl Track App features and their sta
 | **Calendar/Timeline** | Daily timeline view | ✅ | Visually adjusted. |
 | | Activity timeline | ✅ | Visually adjusted. |
 | | Create Time Entry by click & dragging | ✅ | |
-| | Zooming | ❌ | |
+| | Zooming | ✅ | |
 | | Moving time entry by dragging | ❌ | |
-| | Context menu and advanced time operations | ⌛ | |
+| | Context menu and advanced time operations | ✅ | |
 | | Calendar integration | ❌ | Integration with external calendars. |
 | **Other** | Sync progress indication | ✅ | |
 | | Idle detection/notification | ✅ | |
 | | Taskbar progress | ❌ | |
 | | Desktop shortcuts | ❌ | |
-| | Microsoft Store release | ❌ | |
