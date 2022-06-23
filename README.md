@@ -34,7 +34,7 @@ Here's an overview of the current Windows Toggl Track App features and their sta
 | | `@` and `#` shortcuts | ✅ | Use these shortcuts to select project/tags while editing the description |
 | | Time tracking reminders | ✅ | |
 | | `Timer` and `Manual` Time Entry input | ✅ | |
-| | Mini Timer | ⌛ | Partially implemented. With improved search engine and ability to change all TE elements |
+| | Mini Timer | ✅ | Partially implemented. With improved search engine and ability to change all TE elements |
 | | UI/Performance Changes | ✅ | Better performance. Minor UI changes. |
 | | Pomodoro feature | ❌ | An improved version is planned, with focus UI. |
 | | Autotracking feature | ❌ | An improved version is planned. |
