@@ -49,5 +49,5 @@ Here's an overview of the current Windows Toggl Track App features and their sta
 | | Calendar integration | ❌ | Integration with external calendars. |
 | **Other** | Sync progress indication | ✅ | |
 | | Idle detection/notification | ✅ | |
-| | Taskbar progress | ❌ | |
-| | Desktop shortcuts | ❌ | |
+| | Taskbar progress | ✅ | |
+| | Desktop shortcuts | ✅ | |
